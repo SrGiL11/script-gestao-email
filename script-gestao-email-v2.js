@@ -1,6 +1,6 @@
 function manageEmails() {
     Logger.log("Iniciando o script...");
-    const adminEmail = "seuemail@dominio.com"; //Insira o seu e-mail aqui
+    const adminEmail = "seu_email@dominio.com"; //Insira o seu e-mail aqui
     const retentionPeriod = '7d'; //Período para ele ser excluído
     const labelsToProtect = ['Marcador1', 'Marcador2']; //Marcadores que deseja salvar
     const protectLabelQuery = labelsToProtect.map(label => `label:${label}`).join(' OR ');
