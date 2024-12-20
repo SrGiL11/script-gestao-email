@@ -1,4 +1,4 @@
-# Gerenciador de Emails no Gmail usando Apps Script
+# Gerenciador de Emails no Gmail usando App Script
 
 🚀 Este repositório contém um script em Apps Script para automatizar o gerenciamento de emails na sua conta do Gmail. O script move para a lixeira todos os emails mais antigos que um determinado período de tempo, exceto aqueles que contêm marcadores específicos que você deseja proteger. 🌐
 
